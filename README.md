@@ -21,7 +21,7 @@ To help them better deliver on that, we just decided to build a thin "platform",
 
 ### Imaginary Corp DataModels-as-a-Service
 
-![Image Corp Logo](images/image_corp_logo.jpg =200x)
+![Image Corp Logo](images/image_corp_logo.jpg)
 
 We use [dbt](https://docs.getdbt.com/docs/introduction) to manage our _Data Models_. Use the following workflow to create your new model:
 
@@ -38,10 +38,10 @@ Use the following resources to build your model
 
 Our Service Agreement:
 
-- This service/platform is run by team [data-platform](https://www.google.com)
+- This service/platform is run by team [data-platform](https://www.google.com).
 - We review PRs within 3 working days.
-- We run models every 1hr.
-- We react to incidents within 4 working ours (between 9am-5pm).
+- We run models every 1 hr.
+- We react to incidents within 4 working hours (between 9am-5pm).
 
 Roadmap:
 
